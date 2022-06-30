@@ -1,2 +1,2 @@
 # PhysModels
-basic setups for a physical model
+basic setups for physical models
